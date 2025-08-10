@@ -449,13 +449,14 @@ pip install torch torchvision --upgrade
 
 ## 📄 License Information
 
-This project's licensing terms are currently under review.
+**📄 License: Contact Sreeram for licensing terms and permissions.**
 
 ### **For Licensing Information:**
 - 📧 **Contact Sreeram** at sreeram.lagisetty@gmail.com
 - 📋 **Discuss Usage Rights** and permissions
 - 🤝 **Commercial Use** - Contact for terms
 - 📚 **Academic Use** - Contact for terms
+- 🔒 **All Usage** requires permission from Sreeram
 
 ### **Project Files**
 - 📋 **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to the project
@@ -541,7 +542,7 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 [![GitHub stars](https://img.shields.io/github/stars/Sreeram5678/AI-Researcher?style=social)](https://github.com/Sreeram5678/AI-Researcher)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-@sreeram_3012-E4405F?style=social&logo=instagram)](https://www.instagram.com/sreeram_3012?igsh=N2Fub3A5eWF4cjJs&utm_source=qr)
 
-💰 **$0.00 Cost** • 🔓 **Open Source** • 🚀 **No Limits**
+💰 **$0.00 Cost** • 📄 **License Required** • 🚀 **Contact Sreeram**
 
 [🚀 Get Started](/#quick-start) • [📚 Documentation](https://ai-researcher-free.readthedocs.io) • [💬 Community](https://discord.gg/ai-researcher-free)
 
