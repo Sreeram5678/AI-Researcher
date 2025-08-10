@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Cost: $0.00](https://img.shields.io/badge/cost-$0.00-green.svg)](https://github.com/yourusername/ai-researcher-free)
+[![Cost: $0.00](https://img.shields.io/badge/cost-$0.00-green.svg)](https://github.com/Sreeram5678/AI-Researcher)
 
 > **Discover research gaps, generate hypotheses, and run experiments using only free resources!**
 
@@ -44,8 +44,8 @@ AI Researcher Free is a complete autonomous research assistant that can analyze 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-researcher-free.git
-cd ai-researcher-free
+git clone https://github.com/Sreeram5678/AI-Researcher.git
+cd AI-Researcher
 
 # Run the setup script
 chmod +x setup.sh
@@ -245,8 +245,8 @@ ollama serve
 ### **Google Colab Integration**
 ```python
 # In Colab notebook
-!git clone https://github.com/yourusername/ai-researcher-free.git
-%cd ai-researcher-free
+!git clone https://github.com/Sreeram5678/AI-Researcher.git
+%cd AI-Researcher
 !pip install -r requirements.txt
 
 # Use free GPU
@@ -336,8 +336,8 @@ We welcome contributions! Here's how to get started:
 ### **Development Setup**
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/ai-researcher-free.git
-cd ai-researcher-free
+git clone https://github.com/Sreeram5678/AI-Researcher.git
+cd AI-Researcher
 
 # Create development environment
 python -m venv dev_env
@@ -467,6 +467,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🎓 **Academic Community** - For open science
 
 ### **Special Thanks**
+- **Sreeram** - Project creator and maintainer
 - All contributors and testers
 - Open source AI/ML community
 - Researchers sharing their work openly
@@ -475,15 +476,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Community
 
 ### **Get Help**
-- 📧 **Email**: support@ai-researcher-free.com
+- 📧 **Email**: sreeram.lagisetty@gmail.com
 - 💬 **Discord**: [Join our community](https://discord.gg/ai-researcher-free)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/ai-researcher-free/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Sreeram5678/AI-Researcher/issues)
 - 📚 **Docs**: [Documentation](https://ai-researcher-free.readthedocs.io)
 
 ### **Stay Updated**
 - ⭐ **Star** this repository
 - 👀 **Watch** for updates
-- 🔔 **Follow** on Twitter [@AIResearcherFree](https://twitter.com/AIResearcherFree)
+- 🔔 **Follow** on Instagram [@sreeram_3012](https://www.instagram.com/sreeram_3012?igsh=N2Fub3A5eWF4cjJs&utm_source=qr)
 - 📰 **Newsletter**: [Subscribe for updates](https://ai-researcher-free.com/newsletter)
 
 ## 🎯 Roadmap
@@ -504,12 +505,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**🤖 AI Researcher Free**
+**🤖 AI Researcher by Sreeram**
 
 *Autonomous Research Assistant - 100% Free Forever*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-researcher-free?style=social)](https://github.com/yourusername/ai-researcher-free)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AIResearcherFree?style=social)](https://twitter.com/AIResearcherFree)
+[![GitHub stars](https://img.shields.io/github/stars/Sreeram5678/AI-Researcher?style=social)](https://github.com/Sreeram5678/AI-Researcher)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-@sreeram_3012-E4405F?style=social&logo=instagram)](https://www.instagram.com/sreeram_3012?igsh=N2Fub3A5eWF4cjJs&utm_source=qr)
 
 💰 **$0.00 Cost** • 🔓 **Open Source** • 🚀 **No Limits**
 
