@@ -370,7 +370,7 @@ def get_system_status():
 
 ## 📋 Project Information
 - **Version:** 1.0.0
-- **License:** Custom
+- **License:** Apache 2.0
 - **Cost:** $0.00 (100% Free)
 - **Dependencies:** PyTorch, Transformers, Gradio
 - **Data Sources:** arXiv (free), Public datasets

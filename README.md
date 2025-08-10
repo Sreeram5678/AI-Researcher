@@ -2,7 +2,7 @@
 
 **Autonomous AI Research Assistant - 100% Free Edition**
 
-[![License: Custom](https://img.shields.io/badge/License-Custom-blue.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Cost: $0.00](https://img.shields.io/badge/cost-$0.00-green.svg)](https://github.com/Sreeram5678/AI-Researcher)
 
@@ -447,15 +447,21 @@ pip install torch torchvision --upgrade
 - 🔍 **Code Review**: Open source for security audits
 - 📝 **Audit Trail**: All operations logged
 
-## 📄 License
+## 📄 License & Open Source
 
-This project is licensed under a Custom License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ### **What this means:**
 - ✅ **Free to use** for any purpose
 - ✅ **Free to modify** and distribute
 - ✅ **Free for commercial use**
 - ✅ **No warranty** (use at your own risk)
+
+### **Open Source Files**
+- 📋 **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to the project
+- 📜 **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community guidelines
+- 🔒 **[SECURITY.md](SECURITY.md)** - Security policy and reporting
+- 📝 **[CHANGELOG.md](CHANGELOG.md)** - Version history and changes
 
 ## 🙏 Acknowledgments
 
@@ -472,6 +478,29 @@ This project is licensed under a Custom License - see the [LICENSE](LICENSE) fil
 - Open source AI/ML community
 - Researchers sharing their work openly
 - Educators promoting AI literacy
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Whether you're fixing bugs, adding features, or improving documentation, your help makes AI Researcher better for everyone.
+
+### **Quick Start**
+1. **Fork** the repository
+2. **Create** a feature branch
+3. **Make** your changes
+4. **Test** thoroughly
+5. **Submit** a pull request
+
+### **Contribution Guidelines**
+- 📋 **[CONTRIBUTING.md](CONTRIBUTING.md)** - Detailed contribution guide
+- 📜 **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community standards
+- 🔒 **[SECURITY.md](SECURITY.md)** - Security reporting
+
+### **Types of Contributions**
+- 🐛 **Bug Reports** - Help identify and fix issues
+- 💡 **Feature Requests** - Suggest new capabilities
+- 📚 **Documentation** - Improve guides and examples
+- 🔧 **Code** - Submit pull requests with improvements
+- 🧪 **Testing** - Test features and report issues
 
 ## 📞 Support & Community
 
