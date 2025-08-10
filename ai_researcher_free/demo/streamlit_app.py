@@ -568,7 +568,7 @@ with tab5:
     
     project_info = {
         "Version": "1.0.0",
-        "License": "MIT",
+        "License": "Custom",
         "Cost": "$0.00 (100% Free)",
         "Dependencies": "PyTorch, Transformers, Streamlit",
         "Data Sources": "arXiv (free), Public datasets",

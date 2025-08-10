@@ -2,7 +2,7 @@
 
 **Autonomous AI Research Assistant - 100% Free Edition**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Custom](https://img.shields.io/badge/License-Custom-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Cost: $0.00](https://img.shields.io/badge/cost-$0.00-green.svg)](https://github.com/Sreeram5678/AI-Researcher)
 
@@ -449,7 +449,7 @@ pip install torch torchvision --upgrade
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a Custom License - see the [LICENSE](LICENSE) file for details.
 
 ### **What this means:**
 - ✅ **Free to use** for any purpose

@@ -370,7 +370,7 @@ def get_system_status():
 
 ## 📋 Project Information
 - **Version:** 1.0.0
-- **License:** MIT
+- **License:** Custom
 - **Cost:** $0.00 (100% Free)
 - **Dependencies:** PyTorch, Transformers, Gradio
 - **Data Sources:** arXiv (free), Public datasets
