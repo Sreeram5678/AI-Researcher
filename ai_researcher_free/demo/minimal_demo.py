@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Researcher Free - Minimal Demo
+AI Researcher by Sreeram - Minimal Demo
 Lightweight version that works with basic dependencies
 """
 
@@ -20,7 +20,7 @@ sys.path.append(str(project_root))
 def print_banner():
     """Print welcome banner"""
     print("=" * 60)
-    print("🤖 AI RESEARCHER FREE - MINIMAL DEMO")
+    print("🤖 AI RESEARCHER BY SREERAM - MINIMAL DEMO")
     print("💰 100% Free AI Research Assistant")
     print("=" * 60)
     print()
@@ -328,7 +328,7 @@ def main():
     """Main entry point"""
     import argparse
     
-    parser = argparse.ArgumentParser(description="AI Researcher Free - Minimal Demo")
+    parser = argparse.ArgumentParser(description="AI Researcher by Sreeram - Minimal Demo")
     parser.add_argument("--verbose", action="store_true", help="Verbose output")
     
     args = parser.parse_args()

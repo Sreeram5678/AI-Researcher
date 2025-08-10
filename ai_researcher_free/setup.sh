@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# AI Researcher Free - Setup Script
+# AI Researcher by Sreeram - Setup Script
 # 100% Free setup with no paid services required
 
-echo "🤖 Setting up AI Researcher Free Edition..."
+echo "🤖 Setting up AI Researcher by Sreeram..."
 echo "💰 Total cost: $0.00"
 
 # Check if Python 3.8+ is available
@@ -49,7 +49,7 @@ print('✅ Model downloaded successfully')
 # Set up environment variables
 echo "⚙️ Setting up environment..."
 cat > .env << 'EOF'
-# AI Researcher Free Configuration
+# AI Researcher by Sreeram Configuration
 PROJECT_NAME=ai_researcher_free
 DATA_DIR=./data
 MODELS_DIR=./models

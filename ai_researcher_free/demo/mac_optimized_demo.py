@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Researcher Free - Mac Optimized Demo
+AI Researcher by Sreeram - Mac Optimized Demo
 Works on Mac without heavy ML dependencies
 """
 
@@ -25,7 +25,7 @@ sys.path.append(str(project_root))
 def print_banner():
     """Print welcome banner"""
     print("=" * 60)
-    print("🤖 AI RESEARCHER FREE - MAC OPTIMIZED")
+    print("🤖 AI RESEARCHER BY SREERAM - MAC OPTIMIZED")
     print("💰 100% Free AI Research Assistant")
     print("🍎 Optimized for Mac without heavy ML dependencies")
     print("=" * 60)
@@ -578,7 +578,7 @@ def main():
     """Main entry point"""
     import argparse
     
-    parser = argparse.ArgumentParser(description="AI Researcher Free - Mac Optimized Demo")
+    parser = argparse.ArgumentParser(description="AI Researcher by Sreeram - Mac Optimized Demo")
     parser.add_argument("--query", help="Research query")
     parser.add_argument("--papers", type=int, default=8, help="Max papers to analyze")
     

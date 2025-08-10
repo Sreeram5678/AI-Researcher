@@ -1,5 +1,5 @@
 """
-AI Researcher Free - Streamlit Web Interface
+AI Researcher by Sreeram - Streamlit Web Interface
 100% Free AI Research Assistant
 """
 
@@ -31,7 +31,7 @@ except ImportError as e:
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Researcher Free",
+    page_title="AI Researcher by Sreeram",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -74,7 +74,7 @@ st.markdown("""
 # Header
 st.markdown("""
 <div class="main-header">
-    <h1>🤖 AI Researcher Free</h1>
+            <h1>🤖 AI Researcher by Sreeram</h1>
     <p>Autonomous AI Research Assistant - 100% Free Edition</p>
 </div>
 """, unsafe_allow_html=True)
@@ -621,7 +621,7 @@ with tab5:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666;">
-    <p>🤖 AI Researcher Free - Autonomous Research Assistant</p>
+            <p>🤖 AI Researcher by Sreeram - Autonomous Research Assistant</p>
     <p>💰 100% Free • 🔓 Open Source • 🚀 No API Keys Required</p>
 </div>
 """, unsafe_allow_html=True)

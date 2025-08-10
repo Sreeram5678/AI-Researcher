@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Researcher Free - Quick Start Demo
+AI Researcher by Sreeram - Quick Start Demo
 Complete research workflow in one script
 """
 
@@ -23,7 +23,7 @@ from core.experiment_runner import FreeExperimentRunner
 def print_banner():
     """Print welcome banner"""
     print("=" * 60)
-    print("🤖 AI RESEARCHER FREE - QUICK START DEMO")
+    print("🤖 AI RESEARCHER BY SREERAM - QUICK START DEMO")
     print("💰 100% Free AI Research Assistant")
     print("=" * 60)
     print()
@@ -151,7 +151,7 @@ def main():
     """Main entry point"""
     import argparse
     
-    parser = argparse.ArgumentParser(description="AI Researcher Free - Quick Start Demo")
+    parser = argparse.ArgumentParser(description="AI Researcher by Sreeram - Quick Start Demo")
     parser.add_argument("--query", default="attention mechanisms transformer", 
                        help="Research query for literature analysis")
     parser.add_argument("--papers", type=int, default=15,

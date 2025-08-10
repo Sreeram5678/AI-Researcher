@@ -1,5 +1,5 @@
 """
-AI Researcher Free - Gradio Interface
+AI Researcher by Sreeram - Gradio Interface
 Alternative web interface using Gradio
 """
 
@@ -417,11 +417,11 @@ def clear_data(data_type):
 def create_interface():
     """Create the main Gradio interface"""
     
-    with gr.Blocks(title="AI Researcher Free", theme=gr.themes.Soft()) as interface:
+    with gr.Blocks(title="AI Researcher by Sreeram", theme=gr.themes.Soft()) as interface:
         
         # Header
         gr.Markdown("""
-        # 🤖 AI Researcher Free
+        # 🤖 AI Researcher by Sreeram
         ## Autonomous AI Research Assistant - 100% Free Edition
         
         Discover research gaps, generate hypotheses, and run experiments using only free resources!
@@ -590,7 +590,7 @@ def create_interface():
         # Footer
         gr.Markdown("""
         ---
-        🤖 **AI Researcher Free** - 100% Free Autonomous Research Assistant  
+        🤖 **AI Researcher by Sreeram** - 100% Free Autonomous Research Assistant  
         💰 No costs • 🔓 Open source • 🚀 No API keys required
         """)
     

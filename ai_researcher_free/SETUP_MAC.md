@@ -1,4 +1,4 @@
-# 🍎 AI Researcher Free - Mac Setup Guide
+# 🍎 AI Researcher by Sreeram - Mac Setup Guide
 
 Quick setup guide specifically for Mac users with 8GB RAM and 256GB storage.
 

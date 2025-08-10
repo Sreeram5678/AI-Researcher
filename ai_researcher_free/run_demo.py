@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Researcher Free - Demo Launcher
+AI Researcher by Sreeram - Demo Launcher
 Easy way to launch different interfaces
 """
 
@@ -13,7 +13,7 @@ from pathlib import Path
 def print_banner():
     """Print welcome banner"""
     print("=" * 60)
-    print("🤖 AI RESEARCHER FREE - DEMO LAUNCHER")
+    print("🤖 AI RESEARCHER BY SREERAM - DEMO LAUNCHER")
     print("💰 100% Free AI Research Assistant")
     print("=" * 60)
     print()
@@ -90,7 +90,7 @@ def show_help():
 def main():
     """Main demo launcher"""
     parser = argparse.ArgumentParser(
-        description="AI Researcher Free - Demo Launcher",
+        description="AI Researcher by Sreeram - Demo Launcher",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
@@ -143,7 +143,7 @@ Examples:
     elif args.interface == "help":
         show_help()
     
-    print("\n👋 Thanks for trying AI Researcher Free!")
+    print("\n👋 Thanks for trying AI Researcher by Sreeram!")
     print("⭐ Star us on GitHub if you found this useful!")
 
 if __name__ == "__main__":

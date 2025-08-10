@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Researcher Free - Mac Launcher
+AI Researcher by Sreeram - Mac Launcher
 Easy launcher for Mac users with dependency issues
 """
 
@@ -12,7 +12,7 @@ from pathlib import Path
 def print_banner():
     """Print welcome banner"""
     print("=" * 60)
-    print("🤖 AI RESEARCHER FREE - MAC LAUNCHER")
+    print("🤖 AI RESEARCHER BY SREERAM - MAC LAUNCHER")
     print("🍎 Optimized for Mac (no heavy ML dependencies)")
     print("💰 100% Free AI Research Assistant")
     print("=" * 60)
@@ -107,7 +107,7 @@ def main():
     else:
         print("❌ Invalid choice. Please select 1-4.")
     
-    print("\n👋 Thanks for using AI Researcher Free!")
+    print("\n👋 Thanks for using AI Researcher by Sreeram!")
 
 if __name__ == "__main__":
     main()

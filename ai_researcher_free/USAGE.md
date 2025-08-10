@@ -1,6 +1,6 @@
-# 🚀 AI Researcher Free - Usage Guide
+# 🚀 AI Researcher by Sreeram - Usage Guide
 
-Complete guide to using the AI Researcher Free system for autonomous research.
+Complete guide to using the AI Researcher system for autonomous research.
 
 ## 🎯 Quick Start Options
 
@@ -308,8 +308,8 @@ gpu_config = {
 ### Cloud Resources (Free)
 ```python
 # Google Colab setup
-!git clone https://github.com/yourusername/ai-researcher-free.git
-%cd ai-researcher-free
+!git clone https://github.com/Sreeram5678/AI-Researcher.git
+%cd AI-Researcher
 !pip install -r requirements.txt
 
 # Check GPU
@@ -573,4 +573,4 @@ def monitor_resources():
         time.sleep(1)
 ```
 
-This usage guide should help you get the most out of AI Researcher Free! Remember, everything is 100% free - no API keys, no subscriptions, no limits. Happy researching! 🚀
+This usage guide should help you get the most out of AI Researcher by Sreeram! Remember, everything is 100% free - no API keys, no subscriptions, no limits. Happy researching! 🚀

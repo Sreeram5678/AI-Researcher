@@ -1,4 +1,4 @@
-# AI Researcher Free - Requirements
+# AI Researcher by Sreeram - Requirements
 # 100% Free packages only - no paid APIs required
 
 # Core ML and AI (CPU versions for Mac compatibility)

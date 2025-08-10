@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Researcher Free - Streamlit Mac Version
+AI Researcher by Sreeram - Streamlit Mac Version
 Streamlit web interface optimized for Mac
 """
 
@@ -22,7 +22,7 @@ sys.path.append(str(project_root))
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="AI Researcher Free - Mac Version",
+    page_title="AI Researcher by Sreeram - Mac Version",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -56,7 +56,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown('<div class="main-header">🤖 AI Researcher Free - Mac Edition</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">🤖 AI Researcher by Sreeram - Mac Edition</div>', unsafe_allow_html=True)
 st.markdown('<div style="text-align: center; margin-bottom: 2rem;">💰 100% Free AI Research Assistant | 🍎 Optimized for Mac</div>', unsafe_allow_html=True)
 
 # Initialize session state
@@ -402,7 +402,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: #666; padding: 2rem;'>
-        🤖 <strong>AI Researcher Free</strong> - Mac Optimized Version<br>
+        🤖 <strong>AI Researcher by Sreeram</strong> - Mac Optimized Version<br>
         💰 100% Free • 🍎 Mac Compatible • 🚀 No API Keys Required<br>
         <em>Built with ❤️ for the research community</em>
     </div>

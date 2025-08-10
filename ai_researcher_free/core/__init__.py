@@ -1,5 +1,5 @@
 """
-AI Researcher Free - Core Module
+AI Researcher by Sreeram - Core Module
 100% Free AI Research Assistant
 
 This module contains the core components for automated AI research
@@ -13,7 +13,7 @@ from .experiment_runner import FreeExperimentRunner
 from .paper_analyzer import PaperAnalyzer
 
 __version__ = "1.0.0"
-__author__ = "AI Researcher Free Team"
+__author__ = "Sreeram"
 
 __all__ = [
     'FreeKnowledgeBase',
