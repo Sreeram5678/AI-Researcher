@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Template-based hypothesis generation
 
 ### Changed
-- License updated from MIT to Apache 2.0
+- License terms updated - now contact Sreeram for licensing
 - Improved documentation and contributing guidelines
 - Enhanced security policies and code of conduct
 

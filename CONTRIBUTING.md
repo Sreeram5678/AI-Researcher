@@ -192,7 +192,7 @@ Contributors will be recognized in:
 
 ## 📄 License
 
-By contributing to AI Researcher, you agree that your contributions will be licensed under the Apache License 2.0.
+By contributing to AI Researcher, you agree that your contributions will be subject to the project's licensing terms. For licensing information, please contact Sreeram at sreeram.lagisetty@gmail.com.
 
 ## 🙏 Thank You
 

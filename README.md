@@ -2,7 +2,7 @@
 
 **Autonomous AI Research Assistant - 100% Free Edition**
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: Contact Sreeram](https://img.shields.io/badge/License-Contact%20Sreeram-orange.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Cost: $0.00](https://img.shields.io/badge/cost-$0.00-green.svg)](https://github.com/Sreeram5678/AI-Researcher)
 
@@ -447,17 +447,17 @@ pip install torch torchvision --upgrade
 - 🔍 **Code Review**: Open source for security audits
 - 📝 **Audit Trail**: All operations logged
 
-## 📄 License & Open Source
+## 📄 License Information
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project's licensing terms are currently under review.
 
-### **What this means:**
-- ✅ **Free to use** for any purpose
-- ✅ **Free to modify** and distribute
-- ✅ **Free for commercial use**
-- ✅ **No warranty** (use at your own risk)
+### **For Licensing Information:**
+- 📧 **Contact Sreeram** at sreeram.lagisetty@gmail.com
+- 📋 **Discuss Usage Rights** and permissions
+- 🤝 **Commercial Use** - Contact for terms
+- 📚 **Academic Use** - Contact for terms
 
-### **Open Source Files**
+### **Project Files**
 - 📋 **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to the project
 - 📜 **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community guidelines
 - 🔒 **[SECURITY.md](SECURITY.md)** - Security policy and reporting
